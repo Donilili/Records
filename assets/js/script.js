@@ -36,7 +36,7 @@ const musicData = [
     backgroundImage: "./assets/images/poster-4.jpg",
     posterUrl: "./assets/images/poster-4.jpg",
     title: "They Don't Care About Us",
-    album: "HIStory: Past, Present and Future, Book I",
+    album: "HIStory: Past, Present and Future",
     year: 1995,
     artist: "Michael Jackson",
     musicPath: "./assets/music/music-4.mp3",
